@@ -1,0 +1,8 @@
+# ads.txt para nestorcolmenarez.github.io
+#
+# IMPORTANTE: reemplaza pub-XXXXXXXXXXXXXXXX por tu Publisher ID real
+# una vez que tu cuenta de AdSense este aprobada.
+#
+# Lo encuentras en: AdSense > Cuenta > Configuracion > Informacion de la cuenta
+# (formato pub-0000000000000000, sin el prefijo "ca-")
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
